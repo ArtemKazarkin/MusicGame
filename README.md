@@ -1,5 +1,16 @@
 https://artemkazarkin.github.io/MusicGame/
 
+Для лучшего заимодействия с игрой рекомендуется исползование внешних источников звука: пианино, гитара
+
+Приложения для замены:
+
+   IOS: GarageBand https://apps.apple.com/ru/app/garageband/id408709785
+   
+   Android: Пианино - Mini Piano Lite  и Гитара - Real Guitar
+   
+Если такой возможности нет:
+https://virtualpiano.online/pianino/
+
 🎹 Music Trainer
 Интерактивный тренажер для обучения игре на музыкальных инструментах (пианино и гитара) с визуализацией в реальном времени и виртуальным помощником.
 
